@@ -31,7 +31,7 @@ calculator.py   # Main program file
 
 1. Install Python  
 2. Clone the repository:
-   git clone https://github.com/your-username/calculator-cli.git  
+   git clone https://github.com/BM804/Basic_calculator.git  
 3. Navigate to the folder:
    cd calculator-cli  
 4. Run the program:
